@@ -21,3 +21,14 @@ ZCZC W05 20 L05 Quiz 1
 ZCZC W05 20 L05 Quiz 1 Zoom Meeting
 ZCZC W01 60 L02 PopQuiz on Scele
 ZCZC W01 20 L03 Update mylog.txt and myupdate.txt
+ZCZC W02 99 L02 Fourth Class
+ZCZC W02 90 L99 Unfinished Weekly Assignment
+ZCZC W02 99 L02 Fifth Class
+ZCZC W02 90 L99 Unfinished Weekly Assignment
+ZCZC W02 60 L05 Studying For Quiz
+ZCZC W02 20 L05 Quiz 02
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W02 30 L80 Watching video os related
+ZCZC W02 60 L09 Finished Weekly Assignments
+ZCZC W02 40 L05 Finished popquiz
+ZCZC W02 99 L99 First meet part time
