@@ -32,3 +32,10 @@ ZCZC W02 30 L80 Watching video os related
 ZCZC W02 60 L09 Finished Weekly Assignments
 ZCZC W02 40 L05 Finished popquiz
 ZCZC W02 99 L99 First meet part time
+ZCZC W03 99 L02 Attending OS Class
+ZCZC W03 10 L60 Backup my Virtual Box
+ZCZC W03 90 L13 Do Weekly Assigment 3
+ZCZC W03 20 L60 Restore my Virtual Box cuz fail
+ZCZC W03 90 L13 Continue Weekly Assigment 3
+ZCZC W03 20 L01 Answering Pop Quiz 3
+ZCZC W03 20 L41 Updating my log
