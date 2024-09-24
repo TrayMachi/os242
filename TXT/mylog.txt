@@ -39,3 +39,4 @@ ZCZC W03 20 L60 Restore my Virtual Box cuz fail
 ZCZC W03 90 L13 Continue Weekly Assigment 3
 ZCZC W03 20 L01 Answering Pop Quiz 3
 ZCZC W03 20 L41 Updating my log
+ZCZC W03 60 L01 Completed Pop Quiz 3
