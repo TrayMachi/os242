@@ -40,3 +40,10 @@ ZCZC W03 90 L13 Continue Weekly Assigment 3
 ZCZC W03 20 L01 Answering Pop Quiz 3
 ZCZC W03 20 L41 Updating my log
 ZCZC W03 60 L01 Completed Pop Quiz 3
+ZCZC W04 99 L02 Attending OS Class on Week 4
+ZCZC W04 99 L02 Attending Second OS Class
+ZCZC W04 10 L60 Backup my Virtual Box and Key
+ZCZC W04 99 L13 Do Weekly Asssignment 4
+ZCZC W04 60 L01 Completed Pop Quiz 3
+ZCZC W04 20 LO5 Quiz 03
+ZCZC W04 60 L80 Watching video os
