@@ -25,5 +25,8 @@ permalink: LINKS/
 - [Why Are Tarballs STILL A THING? 🤐](https://www.youtube.com/watch?v=ArHXYO-Ktzs&pp=ygUPd2hhdCBpcyB0YXJiYWxs) ---- Understand the deep of tarballs
 - [Linux Crash Course - The grep Command](https://www.youtube.com/watch?v=Tc_jntovCM0&t=118s) ---- Explaining about grep command and what they do
 
+## Week 4
+- [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk) ---- Learn more deep about Makefiles
+- [Using the md5sum Command](https://www.youtube.com/watch?v=X-QFxUJ1qTc) ---- Learn about md5sum command
 <br>
 <hr>
