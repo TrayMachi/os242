@@ -28,5 +28,9 @@ permalink: LINKS/
 ## Week 4
 - [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk) ---- Learn more deep about Makefiles
 - [Using the md5sum Command](https://www.youtube.com/watch?v=X-QFxUJ1qTc) ---- Learn about md5sum command
+
+## Week 5
+- [What Happens When Booting Linux with Low Memory](https://www.youtube.com/watch?v=obRacKML3vA) ---- I wanna know what happen if i booting on low memory
+- [Basic File Encryption with GPG key pairs!](https://www.youtube.com/watch?v=obRacKML3vA) ---- By watching this video i know how to do fgile encryption with GPG
 <br>
 <hr>

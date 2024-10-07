@@ -47,3 +47,13 @@ ZCZC W04 99 L13 Do Weekly Asssignment 4
 ZCZC W04 60 L01 Completed Pop Quiz 3
 ZCZC W04 20 LO5 Quiz 03
 ZCZC W04 60 L80 Watching video os
+ZCZC W04 99 L02 Attending OS Class on Week 5
+ZCZC W04 10 L60 Backup my Virtual Box and Key for week 5
+ZCZC W04 99 L13 Do Weekly Asssignment 5
+ZCZC W04 60 L80 Watching os related video
+ZCZC W04 99 L13 Continue Weekly Asssignment 5
+ZCZC W04 99 L02 Day 2 of Attending OS Class on Week 5
+ZCZC W03 60 L01 Completed Pop Quiz 5
+ZCZC W03 20 L41 Updating my log for week 5
+ZCZC W02 60 L05 Studying For Quiz 5
+ZCZC W02 20 L05 Quiz 05
