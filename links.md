@@ -32,5 +32,10 @@ permalink: LINKS/
 ## Week 5
 - [What Happens When Booting Linux with Low Memory](https://www.youtube.com/watch?v=obRacKML3vA) ---- I wanna know what happen if i booting on low memory
 - [Basic File Encryption with GPG key pairs!](https://www.youtube.com/watch?v=obRacKML3vA) ---- By watching this video i know how to do fgile encryption with GPG
+
+## Week  6
+- [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) ---- This post talks about threads, several mechanisms related to them like mutexes and conditional variable.
+- [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/) ---- Inter-process communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions.
+
 <br>
 <hr>
