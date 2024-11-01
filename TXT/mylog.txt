@@ -64,3 +64,11 @@ ZCZC W06 60 L01 Completed Pop Quiz 6
 ZCZC W06 60 L80 Watching video os
 ZCZC W06 10 L60 Backup my Virtual Box and Key for week 6
 ZCZC W06 20 L05 Quiz 05
+ZCZC W07 99 L02 Attending OS Class on Week 7
+ZCZC W07 99 L17 Do wEEKLY Assignment 7
+ZCZC W07 99 L02 Attending OS Class on Week 7 Part 2
+ZCZC W07 60 L01 Completed Pop Quiz 7
+ZCZC W07 60 L80 Watching video os
+ZCZC W02 60 L05 Studying For Quiz 7
+ZCZC W02 20 L05 Quiz 07
+ZCZC W04 99 L17 Continue Weekly Asssignment 7

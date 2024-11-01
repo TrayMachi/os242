@@ -37,5 +37,8 @@ permalink: LINKS/
 - [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) ---- This post talks about threads, several mechanisms related to them like mutexes and conditional variable.
 - [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/) ---- Inter-process communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions.
 
+## Week 7
+- [Transferring files with the scp Command (Linux Crash Course Series)](https://www.youtube.com/watch?v=Aa7tKMmeFZI) ---- I learnt about transferring file with scp
+- [Docusaurus from ZERO to HERO](https://www.youtube.com/watch?v=Aw9D0YMK8Sk)  ---- More deep about Docusaurus framework
 <br>
 <hr>
