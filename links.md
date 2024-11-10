@@ -40,5 +40,8 @@ permalink: LINKS/
 ## Week 7
 - [Transferring files with the scp Command (Linux Crash Course Series)](https://www.youtube.com/watch?v=Aa7tKMmeFZI) ---- I learnt about transferring file with scp
 - [Docusaurus from ZERO to HERO](https://www.youtube.com/watch?v=Aw9D0YMK8Sk)  ---- More deep about Docusaurus framework
+
+## Week 8
+- [Why don't more people use Linux?](https://www.youtube.com/shorts/RPg3W2YPy7w)
 <br>
 <hr>
